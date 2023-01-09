@@ -1,0 +1,57 @@
+.menu{
+    background-color: white;
+}
+
+
+.header{
+    background-color: #1b5b89;
+}
+
+
+.quem_somos{
+
+}
+
+
+.depoimentos{
+    background-color: #00c0a3;
+}
+
+
+.noticias{
+
+}
+
+
+.socios{
+    background-color: #1b5b89;
+}
+
+
+.assinaturas{
+
+}
+
+
+.usuarios_por_plano{
+    /*background-image: url("../img/fundo.png");*/
+}
+
+.background_usuarios_plano{
+    background-image: url("../img/fundo.png");
+}
+
+
+.faq{
+    background-color: #00c0a3;
+}
+
+
+.servicos{
+
+}
+
+
+.rodape{
+
+}
