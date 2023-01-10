@@ -1,22 +1,56 @@
+.container{
+
+}
+
 .menu{
     background-color: white;
 }
 
+.img_farmacia{
+    position: relative;
+    width: 70px;
+}
 
 .header{
     background-color: #1b5b89;
 }
 
+.img_obj_inteligente{
+    width: 70%;
+    position: relative;
+}
 
 .quem_somos{
 
 }
 
+.img_quem_somos{
+    width: 70%;
+    position: relative;
+    height: 400px;
+}
 
 .depoimentos{
     background-color: #00c0a3;
+    color: #023153;
 }
 
+.depoimentos_parag{
+    color: white;
+}
+
+.card{
+
+    height: 200px;
+    color: white;
+    background-color: #1b5b89;
+}
+
+.img_depoimentos{
+    color: white;
+    margin-top: 20px;
+    height: 400px;
+}
 
 .noticias{
 
@@ -25,6 +59,10 @@
 
 .socios{
     background-color: #1b5b89;
+    color: white;
+    margin-top: 20px;
+    height: 400px;
+
 }
 
 
@@ -51,7 +89,15 @@
 
 }
 
+/*.recent_post{
+    border-bottom-width: 1px;
+    border-bottom-color: #d5d4d4;
+    border-bottom-style: outset;
+}
 
 .rodape{
+    border-top-width: 1px;
+    border-top-color: #d5d4d4;
+    border-top-style: outset;
+}*/
 
-}
