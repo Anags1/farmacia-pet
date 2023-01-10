@@ -71,12 +71,17 @@
 }
 
 
-.usuarios_por_plano{
+.usuarios_plano{
     /*background-image: url("../img/fundo.png");*/
+    top: 125px;
+    width: 25%;
+    position: relative;
 }
 
 .background_usuarios_plano{
     background-image: url("../img/fundo.png");
+    height: 330px;
+
 }
 
 
