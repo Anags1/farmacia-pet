@@ -1,5 +1,6 @@
-.container{
-
+.container-fluid{
+border-color: red;
+border: 5px solid red;
 }
 
 .menu{
@@ -13,6 +14,7 @@
 
 .header{
     background-color: #1b5b89;
+    padding: 30px;
 }
 
 .img_obj_inteligente{
@@ -21,7 +23,7 @@
 }
 
 .quem_somos{
-
+    padding: 30px;
 }
 
 .img_quem_somos{
@@ -33,6 +35,7 @@
 .depoimentos{
     background-color: #00c0a3;
     color: #023153;
+    padding: 30px;
 }
 
 .depoimentos_parag{
@@ -40,7 +43,6 @@
 }
 
 .card{
-
     height: 200px;
     color: white;
     background-color: #1b5b89;
@@ -53,7 +55,7 @@
 }
 
 .noticias{
-
+    padding: 30px;
 }
 
 
@@ -67,7 +69,7 @@
 
 
 .assinaturas{
-
+    padding: 30px;
 }
 
 
@@ -87,11 +89,12 @@
 
 .faq{
     background-color: #00c0a3;
+    padding: 30px;
 }
 
 
 .servicos{
-
+    padding: 30px;
 }
 
 /*.recent_post{
