@@ -3,6 +3,11 @@ border-color: red;
 border: 5px solid red;
 }
 
+.row{
+    padding-left: 70px;
+    padding-right: 70px;
+}
+
 .menu{
     background-color: white;
 }
@@ -16,6 +21,8 @@ border: 5px solid red;
     background-color: #1b5b89;
     padding: 30px;
 }
+
+
 
 .img_obj_inteligente{
     width: 70%;
@@ -35,7 +42,7 @@ border: 5px solid red;
 .depoimentos{
     background-color: #00c0a3;
     color: #023153;
-    padding: 30px;
+        padding: 30px;
 }
 
 .depoimentos_parag{
@@ -46,12 +53,16 @@ border: 5px solid red;
     height: 200px;
     color: white;
     background-color: #1b5b89;
+    bottom: 70px;
 }
 
 .img_depoimentos{
     color: white;
     margin-top: 20px;
-    height: 400px;
+    position: relative;
+    height: 180px;
+    bottom: 20px;
+    left: 40px;
 }
 
 .noticias{
@@ -90,6 +101,16 @@ border: 5px solid red;
 .faq{
     background-color: #00c0a3;
     padding: 30px;
+    color: white;
+}
+
+.botoes_accordion{
+    color: white;
+    background-color: #094c7d;
+}
+
+.faq_text{
+    color: #023153;
 }
 
 
@@ -109,3 +130,7 @@ border: 5px solid red;
     border-top-style: outset;
 }*/
 
+.content 
+{
+    padding: 0px 20% 0px 20% !important;
+}
