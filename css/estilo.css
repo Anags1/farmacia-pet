@@ -1,6 +1,6 @@
 .container-fluid{
-border-color: red;
-border: 5px solid red;
+    border-color: red;
+    border: 5px solid red;
 }
 
 .row{
@@ -10,6 +10,7 @@ border: 5px solid red;
 
 .menu{
     background-color: white;
+    padding: 20px;
 }
 
 .img_farmacia{
@@ -17,12 +18,17 @@ border: 5px solid red;
     width: 70px;
 }
 
+.img_cat_menu{
+    position: relative;
+    height: 45px;
+    top: 17px;
+}
+
 .header{
     background-color: #1b5b89;
     padding: 30px;
     height: 400px;
 }
-
 
 
 .img_obj_inteligente{
@@ -44,15 +50,15 @@ border: 5px solid red;
 
 .img_quem_somos{
     width: 80%;
-position: relative;
-height: 370px;
-bottom: 30px;
+    position: relative;
+    height: 370px;
+    bottom: 30px;
 }
 
 .depoimentos{
     background-color: #00c0a3;
     color: #023153;
-        padding: 30px;
+    padding: 30px;
 }
 
 .depoimentos_parag{
@@ -79,15 +85,28 @@ bottom: 30px;
     padding: 30px;
 }
 
+.imgs_news{
+    width: 70%;
+}
+
+.icon-btn-1{
+    margin-right: -160px;
+    position: relative;
+    top: 40px;
+}
+
+.icon-btn-2{
+    margin-left: -160px;
+    position: relative;
+    top: 40px;
+}
 
 .socios{
     background-color: #1b5b89;
     color: white;
     margin-top: 20px;
     height: 400px;
-
 }
-
 
 .assinaturas{
     padding: 30px;
@@ -108,9 +127,7 @@ bottom: 30px;
 .background_usuarios_plano{
     background-image: url("../img/fundo.png");
     height: 350px;
-
 }
-
 
 .faq{
     background-color: #00c0a3;
@@ -121,15 +138,13 @@ bottom: 30px;
 
 .img_faq{
     width: 480px;
-position: relative;
-bottom: 130px;
+    position: relative;
+    bottom: 130px;
 }
 
 .botoes_accordion{
     color: white;
     background-color: #094c7d;
-    /*height: 680px;*/
-
 }
 
 .div_accordion{
@@ -139,7 +154,6 @@ bottom: 130px;
 .faq_text{
     color: #023153;
 }
-
 
 .servicos{
     padding: 30px;
