@@ -20,23 +20,33 @@ border: 5px solid red;
 .header{
     background-color: #1b5b89;
     padding: 30px;
+    height: 400px;
 }
 
 
 
 .img_obj_inteligente{
-    width: 70%;
+    width: 50%;
     position: relative;
 }
 
 .quem_somos{
     padding: 30px;
+    height: 440px;
+}
+
+.btn_quemsomos{
+    background-color: #f88221;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 19px;
 }
 
 .img_quem_somos{
-    width: 70%;
-    position: relative;
-    height: 400px;
+    width: 80%;
+position: relative;
+height: 370px;
+bottom: 30px;
 }
 
 .depoimentos{
@@ -62,7 +72,7 @@ border: 5px solid red;
     position: relative;
     height: 180px;
     bottom: 20px;
-    left: 40px;
+    right: 10px;
 }
 
 .noticias{
@@ -81,19 +91,23 @@ border: 5px solid red;
 
 .assinaturas{
     padding: 30px;
+    color: #094c7d;
 }
 
-
+.parag_assinatura{
+    color: #f88221;
+}
 .usuarios_plano{
     /*background-image: url("../img/fundo.png");*/
-    top: 125px;
+    top: 155px;
     width: 25%;
     position: relative;
+    left: 70px;
 }
 
 .background_usuarios_plano{
     background-image: url("../img/fundo.png");
-    height: 330px;
+    height: 350px;
 
 }
 
@@ -102,11 +116,24 @@ border: 5px solid red;
     background-color: #00c0a3;
     padding: 30px;
     color: white;
+    height: 680px;
+}
+
+.img_faq{
+    width: 480px;
+position: relative;
+bottom: 130px;
 }
 
 .botoes_accordion{
     color: white;
     background-color: #094c7d;
+    /*height: 680px;*/
+
+}
+
+.div_accordion{
+    width: 520px;
 }
 
 .faq_text{
@@ -116,6 +143,19 @@ border: 5px solid red;
 
 .servicos{
     padding: 30px;
+    height: 400px;
+}
+
+.btn_news{
+    background-color: #f88221;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 19px;
+}
+
+.servicos_post{
+    color: #023153;
+    /*.font-weight: bolder;*/
 }
 
 /*.recent_post{
