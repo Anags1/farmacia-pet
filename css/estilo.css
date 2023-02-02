@@ -105,7 +105,7 @@
     background-color: #1b5b89;
     color: white;
     margin-top: 20px;
-    height: 320px;
+    height: 350px;
 }
 
 .div_socios{
@@ -113,8 +113,8 @@
     display: inline-flex;
 }
 
-.imgs_socios{
-
+.card-column{
+    display: inline-block
 }
 
 .img_socio1{
