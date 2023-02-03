@@ -188,21 +188,18 @@
 
 .servicos_post{
     color: #023153;
-    /*.font-weight: bolder;*/
-}
 
-/*
-.rodape{
-    border-top-width: 1px;
-    border-top-color: #d5d4d4;
-    border-top-style: outset;
-}*/
+}
 
 .content 
 {
     padding: 0px 20% 0px 20% !important;
 }
 
-.img-fluid{
+.icon_footer{
+    margin-right: 30px;
+}
 
+.txt_footer{
+    margin-top: 15px;
 }
