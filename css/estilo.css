@@ -1,8 +1,3 @@
-.container-fluid{
-    border-color: red;
-    border: 5px solid red;
-}
-
 .row{
     padding-left: 70px;
     padding-right: 70px;
@@ -86,6 +81,13 @@
 
 .noticias{
     padding: 30px;
+}
+
+.btn_noticias{
+    background-color: #f88221;
+    color: white;
+    border-radius: 8px;
+    padding: 4px 19px;
 }
 
 .imgs_news{
