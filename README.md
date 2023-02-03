@@ -1,3 +1,3 @@
 # Farmacia Pet
 
-Projeto em HTML utilizando bootstrap, com cards e carousel.
+Projeto autônomo em HTML utilizando bootstrap, com cards e carousel.
