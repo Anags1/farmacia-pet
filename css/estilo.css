@@ -8,12 +8,17 @@
 }
 
 .header, .navbar{
-    background-color: rgb(80, 80, 80);
+    background-color:#fff;  ;
+}
+
+.navbar-brand{
+    padding-left: 30px;
 }
 
 .navbar-links a{
     color: #fff;
     padding-right: 35px;
+
 }
 
 .img_farmacia{
@@ -46,6 +51,8 @@
 .img_obj_inteligente{
     width: 50%;
     position: relative;
+    bottom: 5px;
+    height: 340px;
 }
 
 .quem_somos{
@@ -61,7 +68,8 @@
 }
 
 .img_quem_somos{
-    width: 80%;
+    min-width: 70%;
+    max-width: 90%;
     position: relative;
     height: 370px;
     bottom: 30px;
@@ -140,12 +148,34 @@
     height: 250px;
     position: relative;
     margin-top: 30px;
+    min-width: 80%;
+    max-width: 95%;
 }
 
 .assinaturas{
     padding: 30px;
     color: #094c7d;
     margin-top: 155px;
+}
+
+.btn_assinatura_mensal{
+    background-color: #00c0a3;
+    color: #fff;
+    width: 115px;
+}
+
+.btn_assinatura_anual{
+    background-color: #bdada0;
+    color: #023153;
+    width: 115px;
+}
+
+
+.btn_assinar{
+    background-color: #f88221;
+    color: #fff;
+    border-radius: 8px;
+    padding: 4px 19px;
 }
 
 .parag_assinatura{
